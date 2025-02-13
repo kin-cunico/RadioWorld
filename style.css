@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: #f300a2;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#stationSelect {
+    color: white;
+    background-color: #121212;
+}
+
+
+select option {
+    background-color: #e05555; 
+    color: white;  
+    font-size: 16px;
+}
+
+
+select, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    color: #380135;
+}
+
+button {
+    cursor: pointer;
+    background-color: #7c021d;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#playButton {
+    background-color: rgb(0, 53, 0);
+}
+
+#playButton:hover {
+    background-color: rgb(1, 134, 1);
+}
+
+
+
+button:hover {
+    background-color: #4d0111;
+}
+
+#audioPlayer {
+    margin-top: 20px;
+    width: 80%;
+    max-width: 300px;
+}
