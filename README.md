@@ -16,13 +16,13 @@ To run RadioWorld locally:
 
 Clone the repository:
 
-git clone https://github.com/kin-cunico/RadioWorld.git
+```git clone https://github.com/kin-cunico/RadioWorld.git```
 
 Navigate to the project directory:
 
-cd RadioWorld
+```cd RadioWorld```
 
-**Open **`` in your preferred web browser.
+**Open ** in your preferred web browser.
 
 No additional dependencies are required.
 
@@ -40,17 +40,17 @@ Contributions are welcome! To contribute:
 
 Fork the repository.
 
-Create a new branch: git checkout -b feature-name.
+Create a new branch: ```git checkout -b feature-name```.
 
-Make your changes and commit them: git commit -m 'Add new feature'.
+Make your changes and commit them: ```git commit -m 'Add new feature'```.
 
-Push to the branch: git push origin feature-name.
+Push to the branch: ```git push origin feature-name```.
 
 Submit a pull request detailing your changes.
 
 ## License
 
-This project is licensed under FOSS & Libre licensing. See the LICENSE file for details.
+This project is licensed under Apache License 2. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
