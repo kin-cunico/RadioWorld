@@ -10,6 +10,11 @@ User-Friendly Interface: Navigate easily through stations with a clean and respo
 
 Real-Time Streaming: Enjoy uninterrupted, high-quality audio streaming directly from your browser.
 
+## Live Project
+
+To view the current live project, please visit [RadioWorld](https://kin-cunico.github.io/RadioWorld/).
+The project has default stations that I have selected.
+
 ## Installation
 
 To run RadioWorld locally:
@@ -22,17 +27,10 @@ Navigate to the project directory:
 
 ```cd RadioWorld```
 
-**Open ** in your preferred web browser.
+**Open** in your preferred web browser.
 
 No additional dependencies are required.
 
-## Usage
-
-Browse Stations: Upon opening the application, you'll be presented with a list of available radio stations.
-
-Play a Station: Click on any station to start streaming.
-
-Search: Use the search bar to find stations by name, genre, or country.
 
 ## Contributing
 
